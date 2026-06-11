@@ -1,0 +1,1 @@
+{"mensaje":"Incidencia registrada","tipo":"Iluminacion publica","descripcion":"La comunidad reporta 3 postes sin luz en la carrera 5"}
