@@ -1,0 +1,11 @@
+Reflexión Semana 6 - API con Express y JSON
+
+Aprendí a crear un servidor con Express en Node.js y a usar middleware express.json() 
+para leer datos enviados en formato JSON con req.body en peticiones POST.
+
+Comprendí la diferencia entre req.query, req.params y req.body. 
+Probar con Postman y con archivos .http usando REST Client me permitió validar que 
+el servidor responde correctamente sin interfaz gráfica.
+
+Esta práctica conectó la teoría de APIs REST con código funcional, enviando y 
+recibiendo información en formato JSON entre cliente y servidor.

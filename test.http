@@ -1,0 +1,17 @@
+### 1. Probar /registro
+POST http://localhost:3000/registro
+Content-Type: application/json
+
+{
+  "nombre": "Juan",
+  "correo": "juan@test.com"
+}
+
+### 2. Probar /incidencia
+POST http://localhost:3000/incidencia
+Content-Type: application/json
+
+{
+  "tipo": "Iluminacion publica",
+  "descripcion": "La comunidad reporta falla"
+}
